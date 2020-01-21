@@ -16,4 +16,4 @@ Created with Net Core and Mongo Db
 ### Execution:
 Execute the solution with the **_PollingApp.Api_** project as the startup, or run the command ```dotnet run PollingApp.Api.csproj``` in a terminal application inside the folder of the **_PollingApp.Api_** project.
 
-At the first run the database will be populated with test data, you cn check the data quering the collection **_Questions_**.
+At the first run the database will be populated with test data, you can check the data querying the collection **_Questions_**.
