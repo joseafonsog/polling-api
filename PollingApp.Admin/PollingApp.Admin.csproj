@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PollingApp.Commons\PollingApp.Commons.csproj" />
+    <ProjectReference Include="..\PollingApp.Core\PollingApp.Core.csproj" />
+    <ProjectReference Include="..\PollingApp.DAL\PollingApp.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
